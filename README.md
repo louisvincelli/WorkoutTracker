@@ -1,5 +1,15 @@
 # Unit 18 Nosql Homework: Workout Tracker
 
+Deployed Link: https://fast-meadow-28304.herokuapp.com/
+
+## Description
+
+A workout tracker deployed using mongodb that lets you track the amount of work you put in the gym!
+
+## Contact Me
+louisvincelli@gmail.com
+Linked In: https://www.linkedin.com/in/louis-vincelli-224940205/
+
 For this assignment, you'll create a workout tracker. You have already been provided with the front end code in the `Develop` folder. This assignment will require you to create Mongo database with a Mongoose schema and handle routes with Express.
 
 ## User Story
